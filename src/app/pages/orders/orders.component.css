@@ -1,0 +1,28 @@
+div.container{
+    
+  
+    height: 100vh;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto';
+    flex-direction: column;
+}
+
+.number{
+    font-size: 80px;
+}
+
+h1{
+    
+    margin-bottom: 80px;
+
+}
+h2{
+    margin-bottom: 80px;
+
+}
